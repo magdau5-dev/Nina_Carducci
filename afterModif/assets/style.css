@@ -40,6 +40,7 @@ body {
 
 .social-link img {
 	width: 20px;
+	color: #000;
 }
 
 #about {
@@ -65,6 +66,10 @@ body {
 	flex: 1;
 	margin: 0 20px;
 	z-index: 0;
+}
+
+.visually-hidden {
+	color: #000;
 }
 
 .picture img {
